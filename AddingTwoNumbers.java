@@ -6,6 +6,6 @@ public class AddingTwoNumbers
      int n2 = 7;
      int sum = n1 + n2;
 
-     System.out.println("sum";
+     System.out.println(sum;
     }
 }
